@@ -1,0 +1,15 @@
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\bin\Debug\net6.0\FullCode.exe
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\bin\Debug\net6.0\FullCode.deps.json
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\bin\Debug\net6.0\FullCode.runtimeconfig.json
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\bin\Debug\net6.0\FullCode.dll
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\bin\Debug\net6.0\FullCode.pdb
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.csproj.AssemblyReference.cache
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.AssemblyInfoInputs.cache
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.AssemblyInfo.cs
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.csproj.CoreCompileInputs.cache
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.dll
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\refint\FullCode.dll
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.pdb
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\FullCode.genruntimeconfig.cache
+D:\KERJA\BasicProgramming\Kelompok2\FullCode\obj\Debug\net6.0\ref\FullCode.dll

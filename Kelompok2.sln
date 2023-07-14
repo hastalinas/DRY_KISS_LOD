@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kelompok2", "Kelompok2\Kelompok2.csproj", "{BE71DA8F-C1F4-4000-B761-EA6A27A8550E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullCode", "FullCode\FullCode.csproj", "{90B1B177-9076-410A-804A-E84EC5F601A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE71DA8F-C1F4-4000-B761-EA6A27A8550E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE71DA8F-C1F4-4000-B761-EA6A27A8550E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE71DA8F-C1F4-4000-B761-EA6A27A8550E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE71DA8F-C1F4-4000-B761-EA6A27A8550E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B1B177-9076-410A-804A-E84EC5F601A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B1B177-9076-410A-804A-E84EC5F601A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B1B177-9076-410A-804A-E84EC5F601A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B1B177-9076-410A-804A-E84EC5F601A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {584375DF-646F-48D4-BE53-3D26FE952D7C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\bin\Debug\net6.0\Kelompok2.exe
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\bin\Debug\net6.0\Kelompok2.deps.json
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\bin\Debug\net6.0\Kelompok2.runtimeconfig.json
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\bin\Debug\net6.0\Kelompok2.dll
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\bin\Debug\net6.0\Kelompok2.pdb
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.csproj.AssemblyReference.cache
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.AssemblyInfoInputs.cache
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.AssemblyInfo.cs
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.csproj.CoreCompileInputs.cache
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.dll
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\refint\Kelompok2.dll
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.pdb
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\Kelompok2.genruntimeconfig.cache
+D:\KERJA\BasicProgramming\Kelompok2\Kelompok2\obj\Debug\net6.0\ref\Kelompok2.dll
