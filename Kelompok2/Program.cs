@@ -7,17 +7,21 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("...........Don't Repeat Yourself.............");
+        Console.WriteLine("--Sebelum Menerapkan DRY--");
         BeforeDry();
-        Console.WriteLine("======================");
-        AfterDry();
+       
         Console.WriteLine();
+        Console.WriteLine("--Setelah Menerapkan DRY--");
+        AfterDry();
 
         Console.WriteLine("...........Keep It Simple, Stupid.............");
+        Console.WriteLine("--Sebelum Menerapkan KISS--");
         Kiss kiss = new Kiss();
-        kiss.Nama = "John";
-        kiss.Umur = 20;
-        kiss.PrintStudent();
+
+        kiss.PrintStudent1();
         Console.WriteLine();
+        Console.WriteLine("--Setelah Menerapkan KISS--");
+        kiss.PrintStudent2();
 
         Console.WriteLine("...........Law of Demeter.............");
         LodCustomer customer = new LodCustomer();
@@ -30,24 +34,39 @@ public class Program
         customer.AddOrder(order2);
 
         customer.PrintCustomerOrderDetails();
-
-
+        Console.WriteLine();
     }
 
+    //DRY
     public static void BeforeDry()
     {
-        Dry bef_dry = new Dry();
-        bef_dry.CalculatorCircle(4);
-        bef_dry.CalculatorRegtangle(2, 3);
+        Dry before_dry = new Dry();
+        before_dry.CalculatorCircle(4);
+        before_dry.CalculatorRegtangle(2, 3);
     }
 
     public static void AfterDry()
     {
-        Dry af_dry = new Dry();    
-        af_dry.DryCalcCircle(4);
-        af_dry.DryCalcRectangle(2, 3);
+        Dry after_dry = new Dry();    
+        after_dry.DryCalcCircle(4);
+        after_dry.DryCalcRectangle(2, 3);
     }
 
+    //KISS
+/*    public static void BeforeKiss()
+    {
+        Kiss Before_kiss = new Kiss();
+        Before_kiss.Nama = "John";
+        Before_kiss.Umur = 20;
+        Before_kiss.PrintStudent1();
+    }
 
+    public static void AfterKiss()
+    {
+        Kiss After_kiss = new Kiss();
+        After_kiss.Nama = "John";
+        After_kiss.Umur = 20;
+        After_kiss.PrintStudent2();
+    }*/
 
 }

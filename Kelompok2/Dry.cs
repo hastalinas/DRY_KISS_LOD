@@ -22,13 +22,13 @@ public class Dry
 
     public void CalculatorCircle(double radius)
     {
-
         double area = Math.PI * Math.Pow(radius, 2);
         double circumference = 2 * Math.PI * radius;
 
         Console.WriteLine("Bentuk   : Lingkaran");
         Console.WriteLine("Luas     : " + area);
         Console.WriteLine("Keliling : " + circumference);
+        Console.WriteLine();
     }
 
     //================AFTER USING DRY====================
@@ -37,14 +37,14 @@ public class Dry
         double luas = Math.PI * Math.Pow(radius, 2);
         double keliling = 2 * Math.PI * radius;
 
-        PrintShapeProperties("Circle ", luas, keliling);
+        PrintShapeProperties("Lingkaran ", luas, keliling);
     }
     public void DryCalcRectangle(double length, double width)
     {
         double luas = length * width;
         double keliling = 2 * (length + width);
 
-        PrintShapeProperties("Rectangle ", luas, keliling);
+        PrintShapeProperties("Persegi Panjang ", luas, keliling);
     }
 
     public void PrintShapeProperties(string shapename, double luas, double keliling)
@@ -54,8 +54,5 @@ public class Dry
         Console.WriteLine("Keliling : " + keliling);
         Console.WriteLine();
     }
-
-
-
 
 }
