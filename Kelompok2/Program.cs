@@ -11,6 +11,7 @@ public class Program
         Console.WriteLine("======================");
         AfterDry();
         Console.WriteLine();
+
         Console.WriteLine("...........Keep It Simple, Stupid.............");
         Kiss kiss = new Kiss();
         kiss.Nama = "John";
